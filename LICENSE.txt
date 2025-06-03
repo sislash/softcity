@@ -1,0 +1,30 @@
+Softcity - Sytéme symbolique de Contrôle Absolut
+Copyright (c) 2025 Xavier Megnoux
+Tous droits réservés.
+
+-------------------------------------------------------------------------------
+Ce logicielle est une oeuvre protégée. Le code source est rendu
+accessible exclusivement à des fins de consultation, dans
+un but d'étude, d'inspiration,ou de compréhension.
+
+vous n'avez pas le droit de :
+- Modifier, altérer ou réutiliser le code ;
+- Redistribuer ou publier le projet (toalemnt en partie),
+que ce soit gratuitement ou commércialement.
+- L'intégrer dan un autre projet, open source ou privé.
+- Utiliser son architecture ou ses idées à des fins dérivées
+sans autorisation écrite.
+
+Vous avez le droit de :
+- Lire le code, l'examiner, le commenter pour votre usage personnel.
+- Contacter l'auteur pour une demande de licence spéciale
+
+-------------------------------------------------------------------------------
+Pour tout demande :
+Xavier Megnoux - sckavens@gmail.com
+-------------------------------------------------------------------------------
+
+Tout voilation de ces termes pourra faire l'obet de poursuites
+conformément au Code de la propriété intelectuelle
+
+fais à fraipont, 31 mai 2025
