@@ -3,7 +3,7 @@
 ---
 
 ## 📁 **Arborescence du projet**
-
+```bash
 softcity/
 │
 ├── bin/
@@ -171,10 +171,7 @@ softcity/
 ├── LICENSE.txt
 ├── Makefile
 └── README.md
-
-yaml
-Copier
-Modifier
+```
 
 ---
 
