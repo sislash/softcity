@@ -31,6 +31,7 @@ MODULES := \
 	src/citadelle/src \
 	src/fonction_utilitaire/src
 
+# === ou ce trouve le main() ===
 SRC := $(wildcard src/mairie/src/salon_commandement.c) \
 	   $(foreach dir, $(MODULES), $(wildcard $(dir)/*.c))
 

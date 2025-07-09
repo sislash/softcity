@@ -3,8 +3,25 @@
 ## [OK] Etat ctuel
 
 ## Structure des dossiers
--[x] Création de la structure de la ville ( DOSSIER : 'citadelle/', 'mairie/', 'tribunal/','banque/','commissariat/','caserne/','opital/','bibliotheque/','station/','ecole/','logement/','usine/','studio_ui/','scripts/','fonction_utilitaire/', etc.)
-
+-[x] Création de la structure de la ville ( DOSSIER /src/ 
+    'citadelle/',
+    'mairie/',
+    'tribunal/',
+    'banque/',
+    'commissariat/',
+    'caserne/',
+    'hopital/',
+    'bibliotheque/',
+    'station/',
+    'ecole/',
+    'logements/',
+    'usine/',
+    'studio_ui/',
+    'scripts/',
+    'fonction_utilitaire/',
+    'habitants',
+    'etc',)
+    
 ## Interpréteur de scripts
 -[X] Mise en place d'un point d'entrée unique dans mairie/ via salon_commandement.c
 -[X] Système d'interpétation des scripts.
