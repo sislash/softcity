@@ -171,11 +171,6 @@ softcity/
 ├── Makefile
 └── README.md
 ```
-<<<<<<< HEAD
-
----
-=======
->>>>>>> 9514da5 (ajustement du README  du projet SoftCity)
 
 ## 🎯 **Présentation générale**
 
@@ -188,7 +183,6 @@ softcity/
 - **Utilité pédagogique** :
   Permet l’apprentissage rigoureux du langage C, de la structure logicielle, des systèmes modulaires, de l’interaction système, et de la simulation de comportement.
 
----
 
 ## ⚙️ **Exécution du projet**
 
