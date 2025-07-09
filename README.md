@@ -1,8 +1,7 @@
 # 🏙️ *Documentation du système - SoftCity*
 
----
-
 ## 📁 **Arborescence du projet**
+
 ```bash
 softcity/
 │
@@ -172,18 +171,21 @@ softcity/
 ├── Makefile
 └── README.md
 ```
+<<<<<<< HEAD
 
 ---
+=======
+>>>>>>> 9514da5 (ajustement du README  du projet SoftCity)
 
 ## 🎯 **Présentation générale**
 
-- **Objectif du projet** :  
+- **Objectif du projet** :
   SoftCity est un **système abstrait** qui représente symboliquement le système d’exploitation réel, à travers une ville ASCII interactive en pur C.
 
-- **Philosophie** :  
+- **Philosophie** :
   Inspiré de *Tron*, *Unix*, *SimCity ASCII*, mais réinventé de manière minimaliste, textuelle, pédagogique, et **artistique**.
 
-- **Utilité pédagogique** :  
+- **Utilité pédagogique** :
   Permet l’apprentissage rigoureux du langage C, de la structure logicielle, des systèmes modulaires, de l’interaction système, et de la simulation de comportement.
 
 ---
@@ -195,17 +197,19 @@ softcity/
 ```bash
 cd /home/sckavens/piscine_C/SoftCity
 ./bin/softcity
+```
+
 ❗ Si tu lances depuis un autre dossier (bin/, src/, etc.), les chemins internes vers les scripts, logs et données seront invalides.
 
 🧠 Pourquoi ce fonctionnement ?
 Le système repose sur des chemins relatifs codés en dur :
 
-c
-Copier
-Modifier
+```c
 #define BASE_PATH "src/"
 #define SCRIPT_PATH "scripts/"
 #define COMMISSARIAT_SCRIPT_PATH "commissariat/"
+```
+
 Ces chemins sont interprétés relativement au répertoire courant, donc :
 
 ✅ Bon exemple : exécution depuis SoftCity/ ➜ les chemins sont valides.
